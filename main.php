@@ -6,8 +6,9 @@ Description: Overrides two plugins that overwrite the description added in Batch
 The two plugins are "New Blog Templates" and "New Blog Defaults (CETS)."
 Author: Crystal Barton
 Author URI: https://www.linkedin.com/in/crystalbarton
-Version: 1.0.0
+Version: 1.1.0
 Network: true
+GitHub Plugin URI: https://github.com/clas-web/batch-create-uncc-description-fix
 */
 
 
